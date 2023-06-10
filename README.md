@@ -7,4 +7,4 @@ BUIT USING HTML CSS JAVASCRIPT NODEJS AND OPENAI API
 
 
 
-project link :  https://codex-chatgpt.vercel.app/
+
